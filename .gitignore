@@ -1,0 +1,24 @@
+# Virtual Environment
+venv/
+env/
+.env
+
+# Course Data (Large files)
+course_content/
+
+# Generated Data & Database
+data/
+docs/PHASE*_*.txt
+docs/*.json
+
+# Python Bytecode
+__pycache__/
+*.pyc
+
+# IDE & System
+.vscode/
+.idea/
+.DS_Store
+
+# Streamlit
+.streamlit/
